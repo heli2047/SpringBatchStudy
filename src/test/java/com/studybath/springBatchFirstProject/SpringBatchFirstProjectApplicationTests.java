@@ -1,0 +1,13 @@
+package com.studybath.springBatchFirstProject;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class SpringBatchFirstProjectApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
